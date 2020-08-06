@@ -20,5 +20,5 @@ MarsRoverMain class is used to run the program and ask for some initial inputs
 
 MarsRoverInput class is used to validate the necessary input for each rover
 
-MarsRover class contains most of the logic necessary for each rover and each rover is instantiated a MarsRover object
+MarsRover class contains most of the logic necessary for each rover and each rover is instantiated a MarsRover object                                                               
 	Each rover contains information about itself that changes depending on the instructions it has
