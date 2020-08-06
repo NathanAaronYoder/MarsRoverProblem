@@ -6,6 +6,7 @@ To compile, type "javac MarsRoverMain.java" in terminal or command line.
 To run, type "java MarsRoverMain" in terminal or command line.
 
 Design Steps
+---------------
 	1. Get boundaries from user
 	2. Get number of rovers from user (Cannot be negative)
 	3. For each rover, ask user for its initial position (column and row which must be within the boundaries),
